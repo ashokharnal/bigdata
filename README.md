@@ -1,4 +1,4 @@
 About this repo
 
 Files in this repo are a collection from my teachings in
-Big Data and Data Analytics at FORE School of Management.
+Big Data and Data Analytics at FORE School of Management, New Delhi.
